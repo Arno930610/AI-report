@@ -8,3 +8,9 @@
 
 #步驟3:安裝環境 !pip install -r requirements.txt
 ![image](3.jpg)
+
+#步驟4:啟動矩陣推理訓練
+![image](4.jpg)
+
+#步驟4:結果
+![image](5.jpg)
